@@ -18,4 +18,4 @@
 
 etc...
 
-![Use Case Diagram](./AIRBNB%20USE%20CASE.png)
+![Use Case Diagram](AIRBNB%20USE%20CASE.png)

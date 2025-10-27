@@ -65,7 +65,7 @@ It is based on the official ALX project requirements and defines what the backen
 ---
 
 ## Diagram
-![Features and Functionalities Diagram](./Airbnb%20Clone%20Backend%20–%20Features%20and%20Functionalities.drawio.png)
+![Features and Functionalities Diagram](Airbnb%20Clone%20Backend%20–%20Features%20and%20Functionalities.drawio.png)
 
 ---
 
